@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657109530 source:c:\users\regie\downloads\documents\documents_2nd semester\discrete structures i\c++\projects\mean&std\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
